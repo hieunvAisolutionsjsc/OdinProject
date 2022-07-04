@@ -1,0 +1,26 @@
+div{
+    color: white;
+  }
+  .alert-text {
+    color: red;
+  }
+  #title {
+    background-color: red;
+  }
+  .read,
+.unread {
+  color: white;
+  background-color: black;
+}
+.subsection.header {
+    color: red;
+  }
+  
+  .subsection#preview {
+    color: blue;
+  }
+  .ancestor .contents {
+    width: 100px;
+    height: 100px;
+    background: #000;
+  }
